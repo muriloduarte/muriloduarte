@@ -1,4 +1,4 @@
-<h2> Bem vindos <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2> Bem-vindos <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Murilo%20Duarte-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muriloduarteg/)](https://www.linkedin.com/in/muriloduarteg/)
 [![Mail Badge](https://img.shields.io/badge/-muriloduartegoncalves@gmail.com-D44638?style=flat-square&logo=gmail&logoColor=white&link=mailto:muriloduartegoncalves@gmail.com)](mailto:muriloduartegoncalves@gmail.com)
