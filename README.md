@@ -6,7 +6,7 @@
 
 Olá sou o Murilo, Engenheiro de Software. Apreciador da engenharia de produtos. Desenvolvedor back-end, entusiasta do desenvolvimento front-end, fascinado pela criação de produtos digitais e gerenciamento de projetos de TI, aficionado em criação de soluções para problemas cotidianos. 
 
-### Técnologias no momento:
+### No momento estou trabalhando com:
 
 <code><a><img height="50" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-horizontal.svg"></a></code>
 <code><a><img height="50" src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/vue.svg"></a></code>
