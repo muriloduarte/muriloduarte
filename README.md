@@ -9,5 +9,3 @@ Me chamo Murilo. Engenheiro de Software, apreciador da engenharia de produtos. D
 ### No momento estou trabalhando com
 
 <code><a><img height="50" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-horizontal.svg"></a></code>
-<code><a><img height="50" src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/vue.svg"></a></code>
-<code><a><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code>
