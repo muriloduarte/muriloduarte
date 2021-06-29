@@ -4,8 +4,4 @@
 [![Mail Badge](https://img.shields.io/badge/-muriloduartegoncalves@gmail.com-D44638?style=flat-square&logo=gmail&logoColor=white&link=mailto:muriloduartegoncalves@gmail.com)](mailto:muriloduartegoncalves@gmail.com)
 [![Outlook](https://img.shields.io/badge/-muriloduartegoncalves@hotmail.com-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:muriloduartegoncalves@hotmail.com)
 
-Me chamo Murilo. Engenheiro de Software, apreciador da engenharia de produtos. Desenvolvedor back-end, entusiasta do desenvolvimento front-end, fascinado pela criação de produtos digitais e gerenciamento de projetos de TI, aficionado em criação de soluções para problemas cotidianos. 
-
-### No momento estou trabalhando com
-
-<code><a><img height="50" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-horizontal.svg"></a></code>
+Me chamo Murilo. Engenheiro de Software, apreciador da engenharia de produtos. Desenvolvedor back-end, entusiasta do desenvolvimento front-end, fascinado pela criação de produtos digitais e gerenciamento de projetos de TI, aficionado em criação de soluções para problemas cotidianos.
