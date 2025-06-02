@@ -29,14 +29,7 @@ Olá! Me chamo **Murilo Duarte**. Sou **Engenheiro de Software** e apaixonado po
 - **Front-end:** React, Vue.js, Bootstrap, Tailwind
 - **Banco de Dados:** MongoDB, PostgreSQL, MySQL
 - **Outros:** Docker, AWS, Git
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=muriloduarte&show_icons=true&theme=dracula"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriloduarte&layout=compact&theme=dracula"/>
-</div>
-
+  
 </details>
 
 ---
@@ -61,13 +54,6 @@ Hello! My name is **Murilo Duarte**. I'm a **Software Engineer** and product eng
 - **Front-end:** React, Vue.js, Bootstrap, Tailwind
 - **Databases:** MongoDB, PostgreSQL, MySQL
 - **Others:** Docker, AWS, Git
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=muriloduarte&show_icons=true&theme=dracula"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriloduarte&layout=compact&theme=dracula"/>
-</div>
 
 </details>
 
