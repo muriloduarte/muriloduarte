@@ -22,14 +22,6 @@ Olá! Me chamo **Murilo Duarte**. Sou **Engenheiro de Software** e apaixonado po
 - Experiência em gerenciamento de projetos de TI
 - Gosto de criar soluções para problemas do dia a dia
 
-### 🛠️ Tecnologias & Ferramentas
-
-- **Linguagens:** JavaScript, Python, Java, TypeScript
-- **Back-end:** Node.js, Express, Django, Flask, Spring Boot
-- **Front-end:** React, Vue.js, Bootstrap, Tailwind
-- **Banco de Dados:** MongoDB, PostgreSQL, MySQL
-- **Outros:** Docker, AWS, Git
-  
 </details>
 
 ---
@@ -46,14 +38,6 @@ Hello! My name is **Murilo Duarte**. I'm a **Software Engineer** and product eng
 - Passionate about digital product creation
 - Experienced in IT project management
 - I love creating solutions for everyday problems
-
-### 🛠️ Technologies & Tools
-
-- **Languages:** JavaScript, Python, Java, TypeScript
-- **Back-end:** Node.js, Express, Django, Flask, Spring Boot
-- **Front-end:** React, Vue.js, Bootstrap, Tailwind
-- **Databases:** MongoDB, PostgreSQL, MySQL
-- **Others:** Docker, AWS, Git
 
 </details>
 
